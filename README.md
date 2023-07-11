@@ -12,7 +12,7 @@
 - 💬 Ask me about **HTML,CSS and Javascript**
 
 - 📫 How to reach me **pathanzuber575@gmail.com**
-
+- 👨‍💻  I'm interested in Full stack development
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zuber-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zuber-p" height="30" width="40" /></a>
